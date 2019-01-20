@@ -9,6 +9,7 @@
 .project
 .classpath
 .checkstyle
+.idea
 /.settings/
 /bin/
 /log/
